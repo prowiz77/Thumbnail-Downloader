@@ -1,5 +1,5 @@
 
-# Thumbnail Downloader TD24 ![Static Badge](https://img.shields.io/badge/verion-v1.0.0-blue) [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)![Static Badge](https://img.shields.io/badge/python3-ffb703)[![Static Badge](https://img.shields.io/badge/beautifulsoup4-v4.12.3-black)](https://pypi.org/project/beautifulsoup4/)
+# Thumbnail Downloader TD24 ![Static Badge](https://img.shields.io/badge/verion-v1.0.0-blue) [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) ![Static Badge](https://img.shields.io/badge/python3-ffb703) [![Static Badge](https://img.shields.io/badge/beautifulsoup4-v4.12.3-black)](https://pypi.org/project/beautifulsoup4/)
 
 This tool is able to download Thumbnails from several websites.
 

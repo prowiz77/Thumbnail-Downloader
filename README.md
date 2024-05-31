@@ -7,7 +7,7 @@ This tool is able to download Thumbnails from several websites.
 ## Usage
 
 ```javascript
-python3 td24.py -u '[url]' -n [name of image]
+python3 td24.py -u '[url]' -n '[name of image]'
 ```
 
 
